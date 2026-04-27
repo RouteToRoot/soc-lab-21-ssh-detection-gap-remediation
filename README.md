@@ -115,7 +115,9 @@ Result: 61 documents returned
 | File | Description |
 |---|---|
 | `elastic-auth-logs-confirmed.png` | Kibana Discover showing 61 system.auth documents from kali host |
+![Auth Logs Confirmed](elastic-auth-logs-confirmed.png)
 | `elastic-ssh-alerts-remediated.png` | Kibana Alerts page showing 31 SSH Authentication Failure alerts |
+![SSH Alerts Remediated](elastic-ssh-alerts-remediated.png)
 
 ---
 
