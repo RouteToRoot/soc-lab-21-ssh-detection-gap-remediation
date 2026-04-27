@@ -1,0 +1,1 @@
+# soc-lab-21-ssh-detection-gap-remediation
